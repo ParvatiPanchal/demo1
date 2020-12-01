@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="17284" started-at="2020-12-01T08:15:35Z" finished-at="2020-12-01T08:15:52Z">
+  <suite name="Default suite" duration-ms="20300" started-at="2020-12-01T09:58:52Z" finished-at="2020-12-01T09:59:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="17284" started-at="2020-12-01T08:15:35Z" finished-at="2020-12-01T08:15:52Z">
-      <class name="Test.Demo1">
-        <test-method status="PASS" signature="Base()[pri:0, instance:Test.Demo1@7fcef91f]" name="Base" is-config="true" duration-ms="12744" started-at="2020-12-01T08:15:35Z" finished-at="2020-12-01T08:15:48Z">
+    <test name="Default test" duration-ms="20300" started-at="2020-12-01T09:58:52Z" finished-at="2020-12-01T09:59:13Z">
+      <class name="Test.DragandDrop">
+        <test-method status="PASS" signature="Base()[pri:0, instance:Test.DragandDrop@95175928]" name="Base" is-config="true" duration-ms="13729" started-at="2020-12-01T09:58:52Z" finished-at="2020-12-01T09:59:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Base -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:Test.Demo1@7fcef91f]" name="test1" duration-ms="4503" started-at="2020-12-01T08:15:48Z" finished-at="2020-12-01T08:15:52Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:Test.DragandDrop@95175928]" name="test1" duration-ms="6533" started-at="2020-12-01T09:59:06Z" finished-at="2020-12-01T09:59:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-      </class> <!-- Test.Demo1 -->
+      </class> <!-- Test.DragandDrop -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
